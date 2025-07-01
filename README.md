@@ -45,7 +45,7 @@ This is a Streamlit web application that predicts stock prices using an LSTM (Lo
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/yourusername/stock-price-predictor.git
+    git clone https://github.com/sajal2206334/NSE_stock_price_predictor.git
     cd stock-price-predictor
     ```
 
